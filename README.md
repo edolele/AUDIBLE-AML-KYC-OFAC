@@ -2,4 +2,4 @@
 
 ALL RIGHTS RESERVED
 
-Some voice, text and processing in Python
+Some banking regulations in voice and text
